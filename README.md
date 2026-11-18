@@ -3,11 +3,10 @@
 
 Roll from your Foundry sheets, and the results land in your [PUM Companion](https://jeansenvaars.itch.io/plot-unfolding-machine) journal. Works with any game system.
 
-**Foundry VTT v14** · requires the **PUM Companion** desktop app (Windows, macOS or Linux)
+**Foundry VTT v14** · requires the **PUM Companion** desktop app (Windows, macOS or Linux), a one-off purchase
 
 ### _Created by: JeansenVaars_
-#### [This module was made for free, with joy, long nights and because my solo journal wanted my Foundry rolls, so tons of coffee :D!](https://ko-fi.com/jeansenvaars)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V14D3AH)
+#### Made with joy and long nights, because my solo journal wanted my Foundry rolls :D!
 
 **A character sheet and its chat cards in Foundry (left), and the same rolls in the PUM Companion journal (right)**
 ![screenshot_1.png](screenshot_1.png)
