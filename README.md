@@ -6,7 +6,7 @@ Roll from your Foundry sheets, and the results land in your [PUM Companion](http
 **Foundry VTT v14** · requires the **PUM Companion** desktop app (Windows, macOS or Linux)
 
 ### _Created by: JeansenVaars_
-#### [This module was made for free, with joy, long nights and because my solo journal wanted my Foundry dice, so tons of coffee :D!](https://ko-fi.com/jeansenvaars)
+#### [This module was made for free, with joy, long nights and because my solo journal wanted my Foundry rolls, so tons of coffee :D!](https://ko-fi.com/jeansenvaars)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V14D3AH)
 
 **A character sheet and its chat cards in Foundry (left), and the same rolls in the PUM Companion journal (right)**
