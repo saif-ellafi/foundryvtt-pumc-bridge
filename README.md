@@ -1,14 +1,12 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/saif-ellafi/foundryvtt-pumc-bridge/total?logo=GitHub) ![GitHub release (latest by date)](https://img.shields.io/github/downloads/saif-ellafi/foundryvtt-pumc-bridge/latest/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/saif-ellafi/foundryvtt-pumc-bridge) ![GitHub issues](https://img.shields.io/github/issues-raw/saif-ellafi/foundryvtt-pumc-bridge) ![GitHub](https://img.shields.io/github/license/saif-ellafi/foundryvtt-pumc-bridge)
+
 # JV's PUM Companion Bridge for Foundry VTT
 
 Roll from your Foundry sheets, and the results land in your [PUM Companion](https://jeansenvaars.itch.io/plot-unfolding-machine) journal. Works with any game system.
 
-**Foundry VTT v14** · requires the **PUM Companion** desktop app (Windows, macOS or Linux), a one-off purchase
+Requires the **PUM Companion** desktop app (Windows, macOS or Linux), a one-off purchase Solo RPG application.
 
-### _Created by: JeansenVaars_
-#### Made with joy and long nights, because my solo journal wanted my Foundry rolls :D!
-
-**A character sheet and its chat cards in Foundry (left), and the same rolls in the PUM Companion journal (right)**
+**A character sheet and its chat cards in Foundry (left), and the same rolls in the PUM Companion journal (right)**  
 ![screenshot_1.png](screenshot_1.png)
 
 ## What it does
@@ -27,6 +25,7 @@ Edits in Foundry follow along. A re-rolled or pushed card updates its journal en
 ## Installation
 
 1. In Foundry, open **Add-on Modules → Install Module**, and search for **PUM Companion Bridge**, or paste this manifest URL:
+
    `https://github.com/saif-ellafi/foundryvtt-pumc-bridge/releases/latest/download/module.json`
 2. Enable **PUM Companion Bridge** in your world
 3. In your world, create a user for PUM Companion, with a password
@@ -41,22 +40,27 @@ The module does its work in the browser of whoever posts a card, so keep Foundry
 * Pictures are only made while PUM Companion asks for them
 
 ## By JeansenVaars
+
 ![JVLogo](logo-small-black.png)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V14D3AH)
+![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)
 
 ## Check out my other modules!
+
 * [Window Controls](https://github.com/saif-ellafi/foundryvtt-window-controls)
 * [Minimal UI](https://github.com/saif-ellafi/foundryvtt-minimal-ui)
 
 ## Appreciations
+
 * Thanks to [html-to-image](https://github.com/bubkoo/html-to-image) by bubkoo, bundled under its MIT license, which draws the card pictures
 * Thanks to the PUM Companion players who asked for their Foundry dice in their journals
 
 ## License
+
 [MIT License](./LICENSE.md)
 
 ## Powered By
-[![JetBrains](./jetbrains.svg)](https://www.jetbrains.com)
+
+![JetBrains](./jetbrains.svg)
 
 Thanks to JetBrains I can work on this project using **WebStorm**.
