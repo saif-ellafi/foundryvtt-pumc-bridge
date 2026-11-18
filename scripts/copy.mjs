@@ -6,7 +6,7 @@ import { fileURLToPath } from "node:url";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dist = path.join(root, "dist");
 
-const entries = ["module.json", "pum-companion-bridge.js", "vendor", "README.md", "CHANGELOG.md", "LICENSE.md", "THANKS.txt"];
+const entries = ["module.json", "pum-companion-bridge.js", "vendor", "README.md", "screenshot_1.png", "CHANGELOG.md", "LICENSE.md", "THANKS.txt"];
 
 rmSync(dist, { recursive: true, force: true });
 for (const entry of entries) {

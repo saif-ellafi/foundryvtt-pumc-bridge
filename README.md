@@ -9,6 +9,9 @@ Roll from your Foundry sheets, and the results land in your [PUM Companion](http
 #### [This module was made for free, with joy, long nights and because my solo journal wanted my Foundry dice, so tons of coffee :D!](https://ko-fi.com/jeansenvaars)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V14D3AH)
 
+**A character sheet and its chat cards in Foundry (left), and the same rolls in the PUM Companion journal (right)**
+![screenshot_1.png](screenshot_1.png)
+
 ## What it does
 
 PUM Companion connects to your Foundry world on its own and already picks up plain chat and basic rolls. Most game systems, though, put their results in their own chat cards, and those only exist once Foundry draws them in a browser. This module is what reads them.
