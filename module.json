@@ -1,0 +1,29 @@
+{
+	"id": "pum-companion-bridge",
+	"title": "PUM Companion Bridge",
+	"description": "Sends your Foundry chat cards to the PUM Companion app's journal: full card text, the speaker, and optionally a picture of the card as Foundry draws it. Works with any game system.",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "14",
+		"verified": "14.370",
+		"maximum": "14"
+	},
+	"authors": [
+		{
+			"name": "Saif Addin Ellafi",
+			"url": "https://github.com/saif-ellafi",
+			"discord": "JeansenVaars#2857",
+			"ko-fi": "https://ko-fi.com/jeansenvaars"
+		}
+	],
+	"esmodules": [
+		"pum-companion-bridge.js"
+	],
+	"socket": true,
+	"url": "https://github.com/saif-ellafi/foundryvtt-pumc-bridge",
+	"manifest": "https://github.com/saif-ellafi/foundryvtt-pumc-bridge/releases/latest/download/module.json",
+	"download": "https://github.com/saif-ellafi/foundryvtt-pumc-bridge/releases/download/1.0.0/foundryvtt-pumc-bridge_1.0.0.zip",
+	"changelog": "https://github.com/saif-ellafi/foundryvtt-pumc-bridge/blob/main/CHANGELOG.md",
+	"readme": "https://github.com/saif-ellafi/foundryvtt-pumc-bridge/blob/main/README.md",
+	"bugs": "https://github.com/saif-ellafi/foundryvtt-pumc-bridge/issues"
+}

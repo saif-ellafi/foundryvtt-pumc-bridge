@@ -1,0 +1,34 @@
+{
+  "name": "foundryvtt-pumc-bridge",
+  "version": "1.0.0",
+  "description": "Sends Foundry VTT chat cards to the PUM Companion app",
+  "main": "pum-companion-bridge.js",
+  "scripts": {
+    "copy": "node scripts/copy.mjs",
+    "zip": "npm-build-zip --source=dist --destination=.",
+    "build": "npm run copy && npm run zip",
+    "dev": "node scripts/link-dev.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saif-ellafi/foundryvtt-pumc-bridge.git"
+  },
+  "keywords": [
+    "foundry",
+    "vtt",
+    "pum",
+    "pum-companion",
+    "solo",
+    "journal",
+    "chat"
+  ],
+  "author": "JeansenVaars (Saif Ellafi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saif-ellafi/foundryvtt-pumc-bridge/issues"
+  },
+  "homepage": "https://github.com/saif-ellafi/foundryvtt-pumc-bridge",
+  "devDependencies": {
+    "npm-build-zip": "^1.0.4"
+  }
+}
